@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and tensorflow
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python portfolio projects
-- 📫 You can contact me via my github email address
+- 📫 You can contact me through kambuyazi@gmail.com
 
 <!---
 NduduzoDube/NduduzoDube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
